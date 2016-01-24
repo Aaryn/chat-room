@@ -1,0 +1,15 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "Chat room using node",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express": "3.0.6",
+    "socket.io": "^1.3.6"
+  },
+  "author": "Aaryn",
+  "license": ""
+}
